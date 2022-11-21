@@ -1,0 +1,12 @@
+.SpellInfo {
+  text-align: justify;
+  /*text-align: left;*/
+  line-height: 1.5em;
+  margin-right: 10em;
+  margin-left: 10em;
+}
+
+h2 {
+  color: goldenrod;
+  text-align: center;
+}
